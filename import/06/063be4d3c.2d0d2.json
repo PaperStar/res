@@ -151,7 +151,7 @@
                 "__id__": 2
               },
               "component": "RankSystem",
-              "handler": "onClick"
+              "handler": "backToStartMenu"
             }
           ],
           "_N$normalColor": {
